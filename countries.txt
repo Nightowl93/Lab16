@@ -1,0 +1,9 @@
+United States++North America++true
+Ireland++Europe++false
+Spain++Europe++true
+Peru++South America++true
+Botswana++Africa++false
+South Korea++Asia++true
+Nigeria++Africa++false
+Australia++Australia++false
+Dominican Republic++North America++true
